@@ -1,0 +1,25 @@
+/* line 1, ../sass/style.scss */
+body {
+  color: #141414;
+  width: 300px;
+  margin: 0 auto;
+}
+
+/* line 1, ../sass/style.scss */
+div {
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+/* line 1, ../sass/style.scss */
+.box1 {
+  background-color: black;
+  border: 25px gray solid;
+}
+
+/* line 1, ../sass/style.scss */
+.box2 {
+  background-color: gray;
+  border: 25px black solid;
+}
